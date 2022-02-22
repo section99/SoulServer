@@ -1,5 +1,7 @@
 # SoulServer
-the soul of the world
+
+the soul of our world
+
 Created 2:22:22 2/22/2022
 
 This repo will contain the code for the masterbuilder - the server that delegates work to game-world local nodes, recieves player input, communicates with the database and login server.
